@@ -1,0 +1,20 @@
+.skllb_popup {
+  max-width: 280px;
+  height: auto;
+  position: fixed;
+  margin: 0 auto;
+  left: 0;
+  right: 0;
+  z-index: 999;
+}
+
+.skllb_popupMask {
+  width: 100%;
+  height: 100%;
+  background: #FFF;
+  opacity: 0.9;
+  position: absolute;
+  left: 0;
+  top: 0;
+  z-index: 998;
+}
