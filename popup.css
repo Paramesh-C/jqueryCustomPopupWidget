@@ -1,4 +1,4 @@
-.skllb_popup {
+.custom_popup {
   max-width: 280px;
   height: auto;
   position: fixed;
@@ -8,7 +8,7 @@
   z-index: 999;
 }
 
-.skllb_popupMask {
+.custom_popup_mask {
   width: 100%;
   height: 100%;
   background: #FFF;
